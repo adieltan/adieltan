@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/0f9c9c3b-30f4-4d44-bd10-8bf2f0a86272.svg)](https://wakatime.com/@0f9c9c3b-30f4-4d44-bd10-8bf2f0a86272)
+
 [![discord server](https://img.shields.io/discord/709711335436451901?label=Discord%20Server)](https://discord.gg/RJFfFHH)
 
 <!--
