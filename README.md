@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adieltan&&style=flat-square" align="center" />
 <img src="https://wakatime.com/badge/user/0f9c9c3b-30f4-4d44-bd10-8bf2f0a86272.svg" align="center" />
-<img src="https://img.shields.io/discord/709711335436451901?logo=discord&style=plastic" align="center" />
+<img src="https://img.shields.io/discord/894628265963159622?logo=discord&style=plastic" align="center" />
 <img src="https://img.shields.io/github/followers/adieltan?logo=github&style=plastic" align="center" />
 </div>  
 
